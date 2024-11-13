@@ -1,4 +1,4 @@
-# Simple Encoding/Decoding Application. Created In Sketchware.
+## Simple Encoding/Decoding Application. Created In Sketchware.
 
 • 3 Encodings:
 
