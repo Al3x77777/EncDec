@@ -1,6 +1,6 @@
-Simple Encoding/Decoding Application. Created In Sketchware.
+• Simple Encoding/Decoding Application. Created In Sketchware.
 
-3 Encodings:
+• 3 Encodings:
 
 • Base64 (Default)
 • HEX
