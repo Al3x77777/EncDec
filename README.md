@@ -1,4 +1,4 @@
-## Simple Encoding/Decoding Application.
+## EncDec - Simple Encoding/Decoding Application.
 
 • Created In Sketchware. There Are 3 Encodings:
 
